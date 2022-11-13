@@ -1,1 +1,2 @@
-dns.hackerone.com
+docs.hackerone.com
+support.hackerone.com
