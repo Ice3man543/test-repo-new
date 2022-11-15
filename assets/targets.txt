@@ -2,3 +2,4 @@ docs.hackerone.com
 support.hackerone.com
 nuclei.projectdiscovery.io
 hackerone.com
+uber.com
