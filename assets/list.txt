@@ -1,0 +1,3 @@
+docs.hackerone.com
+uber.com
+projectdiscovery.io
