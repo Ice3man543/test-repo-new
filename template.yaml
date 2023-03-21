@@ -1,0 +1,16 @@
+id: basic-example
+
+info:
+  name: Test HTTP Template
+  author: pdteam
+  severity: info
+
+requests:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+    matchers:
+      - type: word
+        negative: true
+        words:
+          - "This is test matcher text"
